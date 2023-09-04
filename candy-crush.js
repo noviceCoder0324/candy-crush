@@ -168,5 +168,5 @@ function checkValid() {
 }
 
 function slideCandy() {
-  
+
 }
